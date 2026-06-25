@@ -1,0 +1,20 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "qGgNqUtLuI7kjJf6qiehN"
+uri = "file://artifacts/portfolio/public/images/luxa-salon.png"
+type = "image"
+title = "Luxa Hair Salon website mockup"
+
+[[generated]]
+id = "fAFZ5ixYojW87RZjiF01y"
+uri = "file://artifacts/portfolio/public/images/fitzone-gym.png"
+type = "image"
+title = "FitZone Gym website mockup"
+
+[[generated]]
+id = "3Yb9pyArAqEh2pksQPFS1"
+uri = "file://artifacts/portfolio/public/images/savoria-restaurant.png"
+type = "image"
+title = "Savoria Restaurant website mockup"

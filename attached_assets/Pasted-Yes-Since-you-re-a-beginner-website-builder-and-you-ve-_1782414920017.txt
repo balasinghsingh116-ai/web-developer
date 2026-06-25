@@ -1,0 +1,124 @@
+Yes. Since you're a beginner website builder and you've already built and published a salon website (Luxa Hair Salon), your portfolio should look professional, simple, and focused on getting freelance clients or internships.
+
+Use this prompt in Replit:
+
+---
+
+**PROMPT FOR REPLIT**
+
+Create a modern, professional, fully responsive personal portfolio website for a beginner freelance web developer and website builder named "Bala Singh".
+
+Theme: Clean, modern, minimal, premium-looking design with smooth animations and mobile responsiveness.
+
+Sections to include:
+
+1. Hero Section
+
+* Name: Bala Singh
+
+* Title: Website Builder & Beginner Web Developer
+
+* Short Introduction:
+  "I create modern, responsive, and user-friendly websites for small businesses and local shops. I focus on clean design, fast performance, and professional user experiences."
+
+* Add a Call-to-Action button:
+
+  * View My Work
+  * Contact Me
+
+2. About Me Section
+   Write:
+   "I am a student and aspiring web developer passionate about building professional websites for businesses. I continuously learn new web technologies and AI-powered tools to create attractive and functional websites."
+
+Skills:
+
+* HTML
+* CSS
+* JavaScript
+* Responsive Web Design
+* Website Deployment
+* Replit
+* Canva
+* Basic AI Tools
+* MS Office
+* Basic Data Analysis
+
+3. Portfolio Projects Section
+
+Project Card:
+
+Luxa Hair Salon Website
+
+Description:
+"A modern salon website designed and developed for showcasing salon services, pricing, booking information, and business branding. The website features a premium design, responsive layout, and smooth user experience."
+
+Features:
+
+* Fully Responsive
+* Modern UI Design
+* Mobile Friendly
+* Fast Loading
+* Business Focused Layout
+
+Add a placeholder button:
+"View Live Website"
+
+4. Services Section
+
+I Can Help With:
+
+* Business Websites
+* Salon Websites
+* Portfolio Websites
+* Landing Pages
+* Website Redesign
+* Responsive Website Development
+
+5. Why Work With Me Section
+
+* Affordable Solutions
+* Mobile-Friendly Design
+* Fast Delivery
+* Modern User Interface
+* Beginner with Strong Learning Mindset
+
+6. Contact Section
+
+Heading:
+Let's Build Your Website
+
+Fields:
+
+* Name
+* Email
+* Message
+
+Social Links:
+
+* GitHub
+* LinkedIn
+* Email
+
+7. Footer
+
+Text:
+© 2026 Bala Singh. All Rights Reserved.
+
+Design Requirements:
+
+* Glassmorphism effects
+* Smooth scrolling
+* Scroll animations
+* Professional typography
+* Dark mode by default
+* Blue and purple gradient accents
+* Fully responsive for mobile, tablet, and desktop
+* Modern cards and hover effects
+* SEO-friendly structure
+* Clean code organization
+
+Create everything in a single-page portfolio website with professional developer styling similar to modern freelance web developer portfolios.
+
+---
+
+One extra tip: before making your portfolio, create **2–3 more demo websites** (restaurant, gym, clothing store, etc.). Clients trust portfolios much more when they see multiple projects instead of just one salon website.
