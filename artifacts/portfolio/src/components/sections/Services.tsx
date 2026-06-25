@@ -52,8 +52,8 @@ const whyMe = [
     description: "Clean, attractive designs that engage your visitors.",
   },
   {
-    title: "Strong Learning Mindset",
-    description: "Dedicated to utilizing the latest tools and best practices.",
+    title: "Up-to-Date Technology",
+    description: "Always using the latest tools and industry best practices.",
   }
 ];
 

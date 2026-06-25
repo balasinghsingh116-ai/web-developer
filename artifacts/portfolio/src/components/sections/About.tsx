@@ -35,12 +35,12 @@ export function About() {
               className="space-y-6 text-lg text-muted-foreground leading-relaxed"
             >
               <p>
-                I am a student and aspiring web developer passionate about building professional websites for businesses. 
-                My journey into tech started with a simple curiosity about how the web works, which quickly blossomed into a drive to create.
+                I am a web developer passionate about building professional websites for businesses. 
+                My journey into tech started with a curiosity about how the web works, which quickly grew into a drive to build real, impactful products.
               </p>
               <p>
-                I continuously learn new web technologies and AI-powered tools to create attractive and functional websites. 
-                Whether it's a local salon needing an online presence or a portfolio for a creative professional, I approach every project with dedication and an eagerness to learn.
+                I work with modern web technologies and AI-powered tools to create attractive, fast, and functional websites. 
+                Whether it's a local salon needing an online presence or a portfolio for a creative professional, I approach every project with dedication and attention to detail.
               </p>
             </motion.div>
 

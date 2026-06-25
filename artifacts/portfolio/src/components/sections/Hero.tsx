@@ -44,7 +44,7 @@ export function Hero() {
           transition={{ duration: 0.5, delay: 0.2 }}
           className="text-2xl md:text-4xl font-display text-muted-foreground mb-8"
         >
-          Website Builder & <span className="text-gradient font-semibold">Beginner Web Developer</span>
+          Website Builder & <span className="text-gradient font-semibold">Web Developer</span>
         </motion.h2>
 
         <motion.p
