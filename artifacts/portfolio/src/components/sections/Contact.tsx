@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
-import { Send, Github, Linkedin, Mail } from "lucide-react";
+import { Send, Github, Linkedin, Mail, Phone } from "lucide-react";
 import { useToast } from "@/hooks/use-toast";
 
 export function Contact() {
@@ -55,11 +55,17 @@ export function Contact() {
                   </p>
                   
                   <div className="space-y-4">
-                    <a href="mailto:hello@example.com" className="flex items-center gap-4 text-muted-foreground hover:text-primary transition-colors">
+                    <a href="mailto:balasinghsingh116@gmail.com" className="flex items-center gap-4 text-muted-foreground hover:text-primary transition-colors">
                       <div className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-foreground">
                         <Mail size={18} />
                       </div>
-                      <span>hello@balasingh.dev</span>
+                      <span>balasinghsingh116@gmail.com</span>
+                    </a>
+                    <a href="tel:+919205191336" className="flex items-center gap-4 text-muted-foreground hover:text-primary transition-colors">
+                      <div className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-foreground">
+                        <Phone size={18} />
+                      </div>
+                      <span>+91 92051 91336</span>
                     </a>
                   </div>
                 </div>
